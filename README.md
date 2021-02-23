@@ -1,4 +1,4 @@
-# AWS-COGNITO-SECURED-MS
+# AWS COGNITO SECURED MS
 A simple API secured with AWS Cognito OAuth2 as resource server
 
 ##Requirements
