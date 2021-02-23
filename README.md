@@ -28,5 +28,5 @@ defined scopes, and you cannot access a resource that's not defined in the Resou
 
 ##I need to disable the security in some resources of my application
 
-Check de SecurityConfiguration, as we are using Spring Security to manage permissions, you can disable the authentication
+Check the SecurityConfiguration, as we are using Spring Security to manage permissions, you can disable the authentication
 for desired resources.
